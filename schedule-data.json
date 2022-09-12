@@ -1,0 +1,51 @@
+[
+    {
+      "subject": "test subject1",
+      "date": "12/78/2000",
+      "day": "Monday",
+      "shift": "I",
+      "code": "ABC321"
+    },
+    {
+      "subject": "test subject2",
+      "date": "12/78/2000",
+      "day": "TUESDAY",
+      "shift": "I",
+      "code": "ABC321"
+    },
+    {
+      "subject": "test subject3",
+      "date": "12/78/2000",
+      "day": "WEDNESDAY",
+      "shift": "II",
+      "code": "ABC321"
+    },
+    {
+      "subject": "test subject5",
+      "date": "12/78/2000",
+      "day": "tHURSDAY",
+      "shift": "II",
+      "code": "ABC321"
+    },
+    {
+      "subject": "test subject4",
+      "date": "12/78/2000",
+      "day": "FRIDAY",
+      "shift": "I",
+      "code": "ABC321"
+    },
+    {
+        "subject": "test subject5",
+        "date": "12/78/2000",
+        "day": "SATURDAY",
+        "shift": "II",
+        "code": "ABC321"
+      },
+      {
+        "subject": "test subject5",
+        "date": "12/78/2000",
+        "day": "SUNDAY",
+        "shift": "II",
+        "code": "ABC321"
+      }
+  ]
